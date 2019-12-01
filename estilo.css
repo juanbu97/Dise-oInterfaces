@@ -107,9 +107,7 @@ aside>section{
 
 #ultimasMotos>section>article{
     display: flex;
-    
-  flex-wrap: wrap;
-    
+  
 }
 .columna{
     flex: 2;
@@ -117,16 +115,10 @@ aside>section{
   flex-direction: column;
 }
 
-.columna{
-    flex: 1;
+.columna2{
+    flex-direction: column;
 }
-.columna{
-    flex: 1;
-}
-.columna1>img{
-    
-    width: 25%;
-}
+
 
 aside>section>ol>li{
     margin: 10px;
